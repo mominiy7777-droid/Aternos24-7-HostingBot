@@ -189,7 +189,7 @@ app.get('/', (req, res) => {
 
           <div class="card">
             <div class="label">Uptime</div>
-            <div class="value" id="uptime-text">0h 0m 0s</div>
+            <div class="value" ${config.name.username}</div>
           </div>
 
           <div class="card">
